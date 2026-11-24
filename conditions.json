@@ -1,0 +1,49 @@
+{
+  "version": "2026-11-24",
+  "editeur": {
+    "nom": "Benjamin Knaebel",
+    "adresse": "",
+    "siren": "",
+    "contact": ""
+  },
+  "avertissement": [
+    "Mr Tacito masque les noms et les coordonnées, mais aucun outil n’est infaillible : relisez toujours ce qui part.",
+    "Vous décidez de ce qui est envoyé à l’IA et vous restez responsable des données que vous partagez.",
+    "Mr Tacito est fourni en l’état, sans garantie d’anonymisation complète."
+  ],
+  "mentions": [
+    [
+      "Propriété",
+      "© 2026 Benjamin Knaebel. Tous droits réservés. Le programme, son nom, son logo, ses images et ses textes sont protégés par le droit d’auteur et le droit des marques."
+    ],
+    [
+      "Ce que vous pouvez faire",
+      "Vous recevez le droit d’utiliser Mr Tacito pour votre propre activité, dans les limites de votre licence. Sauf accord écrit de l’éditeur, il est interdit de le copier pour d’autres, de le revendre, de le louer, de le distribuer, de le modifier ou de le décompiler, hors des cas permis par la loi."
+    ],
+    [
+      "Aucune garantie d’anonymisation complète",
+      "Mr Tacito réduit le risque de transmettre une identité, sans pouvoir le supprimer : un nom, un numéro ou un détail qui permet de reconnaître une personne peut lui échapper. Il est fourni en l’état. Dans les limites permises par la loi, l’éditeur n’est pas responsable des conséquences d’un envoi."
+    ],
+    [
+      "Votre responsabilité",
+      "Rien ne part sans votre accord. Vous relisez le texte et les images avant chaque envoi, et vous restez responsable des données que vous partagez, du respect de votre secret professionnel et des règles qui s’appliquent à vous, dont la protection des données personnelles."
+    ],
+    [
+      "Les IA",
+      "ChatGPT, Claude, Mistral, Gemini, Copilot et les autres IA sont des services de tiers, soumis à leurs propres conditions. Leurs noms et logos appartiennent à leurs propriétaires. Mr Tacito n’a aucun lien avec eux."
+    ],
+    [
+      "Vos données",
+      "Mr Tacito ne collecte rien. Vos textes, votre historique et les correspondances entre étiquettes et vrais noms restent sur cet ordinateur, chiffrés avec votre compte Windows. Au démarrage, il lit seulement en ligne la dernière version de ces conditions ; rien n’est envoyé."
+    ],
+    [
+      "Composants libres",
+      "Mr Tacito contient des logiciels libres, utilisés selon leurs propres licences."
+    ],
+    [
+      "Droit applicable",
+      "Ces conditions sont soumises au droit français."
+    ]
+  ],
+  "signature": "k5hebQYX+a6Fu4obAePVpCbHlqpKjf5W4nPork4cHfEivPfMVG5FWBH7AATstgcAhJ+5yzLpuGUtQUwaEK6rBQ=="
+}
